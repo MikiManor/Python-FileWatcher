@@ -2,7 +2,6 @@ import shutil, os, time
 
 
 def main():
-
     numberOfFileSizeChecks = 3
     timeBetweenSearches = 10
     print("Searching for files with extensions: " + str(includedExtenstions))
